@@ -39,7 +39,7 @@ Here's how you'd set things up with `docker-compose`:
 ```yaml
 services:
   chatgpt-telegram:
-    image: ghcr.io/m1guelpf/chatgpt-telegram
+    image: ghcr.io/bayuudachi/chatgpt-telegram
     container_name: chatgpt-telegram
     volumes:
       # your ".config" local folder must include a "chatgpt.json" file
