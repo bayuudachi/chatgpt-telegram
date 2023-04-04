@@ -31,7 +31,7 @@ Finally, open the terminal in your computer (if you're on windows, look for `Pow
 If you're trying to run this on a server with an existing Docker setup, you might want to use our Docker image instead.
 
 ```sh
-docker pull ghcr.io/m1guelpf/chatgpt-telegram
+docker pull ghcr.io/bayuudachi/chatgpt-telegram
 ```
 
 Here's how you'd set things up with `docker-compose`:
